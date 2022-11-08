@@ -1,0 +1,7 @@
+Buildfile: C:\Users\sowmyap\Documents\Mendix\LETS TRAVEL-main_2\deployment\build_core.xml
+
+clean-excluded-jars:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+

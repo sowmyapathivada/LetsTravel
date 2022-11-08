@@ -1,0 +1,4 @@
+[rtlauncher:container$] INFO Evictions for component 'project-userlib':
+Evicted C:\Users\sowmyap\Documents\Mendix\LETS TRAVEL-main_2\deployment\model\lib\userlib\commons-codec-1.11.jar by C:\Users\sowmyap\Documents\Mendix\LETS TRAVEL-main_2\deployment\model\lib\userlib\commons-codec-1.14.jar.
+2022-11-08 12:51:07.794 INFO - M2EE: Added admin request handler '/prometheus' with servlet class 'com.mendix.metrics.prometheus.PrometheusServlet'
+[rtlauncher:container$] INFO Container start took 7005. Ready to accept admin requests.
